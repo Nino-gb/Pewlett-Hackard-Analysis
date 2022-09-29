@@ -121,14 +121,14 @@ Pewlett Hackard will have enough mentors for Senior Staff, Senior Engineer, Staf
 
 ![employee title_count table](https://user-images.githubusercontent.com/110786136/192672641-98059ec9-a3b0-424a-9649-97ed3a210c6d.png)
 
-> *Query that count mentorship elegibility table by title*
+> *Query that count mentorship eligibility table by title*
 
 ![Screen Shot 2022-09-28 at 5 48 26 PM](https://user-images.githubusercontent.com/110786136/192904517-d18264eb-612c-49b2-b14c-e546cf86c244.png)
 
 The queries above can provide the following  insight to Human Resources ;
 
 1. Total amount of active employee with title (240,124).
-2. Compare count mentorship elegibility table with active employee retiring table to determinate if they have enough mentors.
+2. Compare count mentorship eligibility table with active employee retiring table to determinate if they have enough mentors.
 3. Compare retiring title table with employee title count table and determinate if the department will have enough employees in the next few years.
 
 
